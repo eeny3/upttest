@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275260357276",
+    "project_id": "upttest-5b4a9",
+    "storage_bucket": "upttest-5b4a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275260357276:android:6f396dd7003251af6bcb59",
+        "android_client_info": {
+          "package_name": "com.example.upt_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8avjunoR--2pdfuJEpq7Bjd461KXl1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
